@@ -20,7 +20,7 @@ sendo assim é aberto para comunidade ![4 repositórios online](https://github.c
 
 * **Flocagem**: como usam vários encadeamentos em JavaScript para calcular a simulação de flocagem dos aviões.
 * **Aperte para abrir**: como usam o three.js e os metamorfos para criar um avião dobrável animado.
-* **Push Notifications**: como utilizam o firebase e o sistema rico de notificações do Android.
+* **Notificaçes Push**: como utilizam o firebase e o sistema rico de notificações do Android.
 * **Ponte nativa do WebView**: um exemplo de código completo de como criar um aplicativo com um **WebView** em tela cheia como a camada 
 de visualização, além de como se comunicar entre **Java** e **JavaScript**.
 
